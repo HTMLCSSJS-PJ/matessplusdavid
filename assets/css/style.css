@@ -127,7 +127,9 @@ a:active {
 img {
     padding: 10px 10px;
 }
-
+#mdg {
+  margin: 50px 50px 50px 50px;
+}
 .red{
   color: #000FFF;
 }
