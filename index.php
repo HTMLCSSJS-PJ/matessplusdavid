@@ -33,9 +33,9 @@ if(isset($_POST['submit'])){
   <title class="title">Matess + David</title>
   <!--REQUIRED STYLE SHEETS-->
   <!-- BOOTSTRAP CORE STYLE CSS -->
-  <link href="assets/css/bootstrap.css" rel="stylesheet" />
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' integrity='sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u' crossorigin='anonymous'>
   <!-- FONTAWESOME STYLE CSS -->
-  <link href="assets/css/font-awesome.css" rel="stylesheet" />
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <!-- VEGAS STYLE CSS -->
   <link href="assets/plugins/vegas/jquery.vegas.min.css" rel="stylesheet" />
   <!-- CUSTOM STYLE CSS -->
@@ -319,7 +319,7 @@ if(isset($_POST['submit'])){
   <!-- CORE JQUERY  -->
   <script src="assets/plugins/jquery-1.10.2.js"></script>
   <!-- BOOTSTRAP CORE SCRIPT   -->
-  <script src="assets/plugins/bootstrap.js"></script>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js' integrity='sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa' crossorigin='anonymous'></script>
   <!-- VEGAS SLIDESHOW SCRIPTS -->
   <script src="assets/plugins/vegas/jquery.vegas.min.js"></script>
   <script src="assets/plugins/jquery.parallax-1.1.3.js"></script>
